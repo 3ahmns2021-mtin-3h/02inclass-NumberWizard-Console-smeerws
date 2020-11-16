@@ -1,4 +1,4 @@
-# 02inclass-NumberWizard-Console-smeerws
+# 02inclass-NumberWizard-Console-smeerws :)
 
 ### Project description: 
 Introduction/Project summary 
